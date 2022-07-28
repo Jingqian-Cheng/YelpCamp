@@ -29,7 +29,7 @@ try {
     const resp = await axios.get('https://api.unsplash.com/photos/random', {
     params: {
         client_id: '1Q2KAt9FPBqVDc9VZ6qqMpXAMfNQtABjDipLF4dVImg',
-        collections: 10489597,
+        collections: 9046579,
     },
     })
     return resp.data.urls.small
@@ -40,7 +40,7 @@ try {
 
 const seedDB = async () => {
     // await Campground.deleteMany({});
-    for (let i = 0; i < 45; i++) {
+    for (let i = 0; i < 50; i++) {
         const random1000 = Math.floor(Math.random()*1000);
         const randomPrice = Math.floor(Math.random()*20) + 10;
         const camp = new Campground({
