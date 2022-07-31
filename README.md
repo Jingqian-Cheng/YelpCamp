@@ -1,2 +1,2 @@
 # YelpCamp
-A website showing hundreds of camps。
+A website to help people choose a camping site
