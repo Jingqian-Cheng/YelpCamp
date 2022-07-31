@@ -1,20 +1,20 @@
-## YelpCamp
+# YelpCamp
 A website to help people choose a camping site
 
-# Home Page
+## Home Page
 ![image](https://github.com/Jingqian-Cheng/YelpCamp/blob/main/pictures/YelpCamp-Home.png)
 
-# All Campgrounds
+## All Campgrounds
 ![image](https://github.com/Jingqian-Cheng/YelpCamp/blob/main/pictures/YelpCamp-Campgrounds.png)
 
-# Campground Detail
+## Campground Detail
 ![image](https://github.com/Jingqian-Cheng/YelpCamp/blob/main/pictures/YelpCamp-Detail.png)
 
-# New Campground
+## New Campground
 ![image](https://github.com/Jingqian-Cheng/YelpCamp/blob/main/pictures/YelpCamp-NewCapmground.png)
 
-# Login Page
+## Login Page
 ![image](https://github.com/Jingqian-Cheng/YelpCamp/blob/main/pictures/YelpCamp-Login.png)
 
-# Register Page
+## Register Page
 ![image](https://github.com/Jingqian-Cheng/YelpCamp/blob/main/pictures/YelpCamp-Register.png)
